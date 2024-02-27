@@ -1,0 +1,8 @@
+.fundoCadastro {
+    background-image: url(https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-login-no-computador_114360-23872.jpg?t=st=1708555523~exp=1708559123~hmac=8ef02f2019af11168265c15e916c34c6dc839af91c393317a637326c2d21f22d&w=996);
+      background-repeat: no-repeat;
+      width: 100%;
+      min-height: 100vh;
+      background-size: cover;
+      background-position: center;
+  }
